@@ -5,15 +5,15 @@ Website ini berisi kumpulan website yang telah saya buat untuk menyelesaikan tug
 
 # Kumpulan Link Menuju Projek Saya
 ## Praktikum 1
-1. [Percobaan 1](https://zorgons905.github.io/ZORO-2/index.html)
-2. [Percobaan 2](https://zorgons905.github.io/ZORO-2/index2.html)
-3. [Percobaan 3](https://zorgons905.github.io/ZORO-2/index3.html)
-4. [Percobaan 4](https://zorgons905.github.io/ZORO-2/index4.html)
-5. [Percobaan 5](https://zorgons905.github.io/ZORO-2/index5.html)
-6. [Percobaan 6](https://zorgons905.github.io/ZORO-2/index6.html)
-7. [Percobaan 7](https://zorgons905.github.io/ZORO-2/index7.html)
-8. [Latihan](https://zorgons905.github.io/ZORO-2/Latihan.html)
-9. [Tugas](https://zorgons905.github.io/ZORO-2/Tugas.html)
+1. [Percobaan 1](https://zorgons905.github.io/ZORO2/index.html)
+2. [Percobaan 2](https://zorgons905.github.io/ZORO2/index2.html)
+3. [Percobaan 3](https://zorgons905.github.io/ZORO2/index3.html)
+4. [Percobaan 4](https://zorgons905.github.io/ZORO2/index4.html)
+5. [Percobaan 5](https://zorgons905.github.io/ZORO2/index5.html)
+6. [Percobaan 6](https://zorgons905.github.io/ZORO2/index6.html)
+7. [Percobaan 7](https://zorgons905.github.io/ZORO2/index7.html)
+8. [Latihan](https://zorgons905.github.io/ZORO2/Latihan.html)
+9. [Tugas](https://zorgons905.github.io/ZORO2/Tugas.html)
 
 ## Praktikum 2
 1. [Percobaan 1](https://zorgons905.github.io/ZORO-3/index.html)
